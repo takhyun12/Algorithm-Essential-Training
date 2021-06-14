@@ -1,15 +1,19 @@
 ## Implement strStr()
 * Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
+* Example 1:
 
-```java
-// Java
-int[] arr1 = {1,2,3};
-int[] arr2 = {4,5,6};
+```
+Input: haystack = "hello", needle = "ll" Output: 2
+```
 
-int arr1Length = arr1.length;
-int arr2Length = arr2.length;
+* Example 2:
 
-int[] resultArray = Array.copyOf(arr1, arr1Length + arr2Length);
-System.arrayCopy(arr2, 0, resultArray, arr1Length, arr2Length);  
+```
+Input: haystack = "aaaaa", needle = "bba" Output: -1
+```
+
+* Solution
+```python
+
 ```
