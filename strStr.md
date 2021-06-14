@@ -49,6 +49,6 @@ for haystack, needle in test_cases.items():
 # Output
 # haystack:hello my name is Tackhyun Jung, needle:ky, result:-1
 # haystack:aaaaaaaaaaaaaaa, needle:bb, result:-1
-# haystack:aaaa, value:aa, needle:0
+# haystack:aaaa, needle:aa, result:0
 # haystack:testtesttestking, needle:ng, result:14
 ```
