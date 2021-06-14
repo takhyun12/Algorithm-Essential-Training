@@ -45,4 +45,10 @@ test_cases = {
 for haystack, needle in test_cases.items():
     result = Solution().strStr(haystack, needle)
     print(f"key:{haystack}, value:{needle}, result:{result}")
+    
+# Output
+# key:hello my name is Tackhyun Jung, value:ky, result:-1
+# key:aaaaaaaaaaaaaaa, value:bb, result:-1
+# key:aaaa, value:aa, result:0
+# key:testtesttestking, value:ng, result:14
 ```
