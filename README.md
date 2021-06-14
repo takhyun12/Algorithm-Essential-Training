@@ -6,5 +6,5 @@
 
 ## Table of Contents
 
-1. [knowhow](https://github.com/takhyun12/Python-Essential-Training/blob/main/knowhow.md)
+1. [strStr](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/strStr.md)
 
