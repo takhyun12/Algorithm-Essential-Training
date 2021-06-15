@@ -1,4 +1,4 @@
-## Implement factorial
+## Implement factorial()
 
 * Example 1:
 
