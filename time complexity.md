@@ -15,6 +15,10 @@
 
 ![big o](https://user-images.githubusercontent.com/41291493/122162870-3b095c80-ceaf-11eb-83f8-e61c7a058ecb.png)
 
+#### O(1) (Constant)
+* 입력 데이터의 크기에 상관없이 언제나 일정한 시간이 걸리는 알고리즘을 나타냅니다. 데이터가 얼마나 증가하든 성능에 영향을 거의 미치지 않습니다.
+
+
 
 ```python
 def factorial(n: int) -> int:
