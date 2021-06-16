@@ -23,10 +23,27 @@
 print('hello')
 ```
 
-#### O(log₂ n) (Logarithmic)
+#### O(log n) (Logarithmic)
 * 입력 데이터의 크기가 커질수록 처리 시간이 로그만큼 짧아지는 알고리즘입니다. (연산마다 특정요인에 의해 줄어듬)
 * 데이터가 10배가 되면, 처리 시간은 2배가 됩니다. 
 * 예시) 이진 탐색, 재귀가 순기능으로 이루어지는 경우
+
+```python
+def binary_search(li, item, first=0, last=None):
+	if not last:
+		last = len(li)
+
+	midpoint = (last - first) / 2 + first
+
+	if li[midpoint] == item:
+		return midpoint
+
+	elif li[midpoint] > item:
+		return binary_search(li, item, first, midpoint)
+
+	else:
+		return binary_search(li, item, midpoint, last)
+```
 
 #### O(n) (Linear)
 * 입력 데이터의 크기에 비례해 처리 시간이 증가하는 알고리즘입니다. (단계수와 입력값이 1:1)
@@ -51,7 +68,7 @@ for item in list:
 }
 ```
 
-#### O(n log₂ n) (Linear-Logarithmic)
+#### O(n log n) (Linear-Logarithmic)
 * 데이터가 많아질수록 처리시간이 로그(log) 배만큼 더 늘어나는 알고리즘입니다. (N*(log2N))
 * 데이터가 10배가 되면, 처리 시간은 약 20배가 된다. 
 * 예시) 병합 정렬, 퀵 정렬
@@ -66,22 +83,10 @@ for item in list:
 def print_each_n_times(li):
     for n in li:
         for m in li:
-            print(n,m)
+            print(n, m)
 ```
 
 
 #### O(Cⁿ) (Exponential)
 * 데이터량이 많아질수록 처리시간이 기하급수적으로 늘어나는 알고리즘입니다. (상수값 C 의 n 제곱)
 * 예시) 피보나치 수열, 재귀가 역기능을 할 경우
-
-
-```python
-def factorial(n: int) -> int:
-    if n == 0 or n == 1:
-        print(1)
-    else:
-        result = 1
-        for i in range(1, n + 1):
-            result *= i
-        return result
-```
