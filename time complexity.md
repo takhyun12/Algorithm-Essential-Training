@@ -105,7 +105,7 @@ def disjoint(A, B, C):
     return True
 ```
 
-* 바깥쪽 2개의 loop 는 반드시 실행이 되지만, 안쪽 loop 는 a==b 라는 조건을 만족시켰을 때만 실행이 됨
+* 원리: 바깥쪽 2개의 loop 는 반드시 실행이 되지만, 안쪽 loop 는 a==b 라는 조건을 만족시켰을 때만 실행이 됨
 
 ```python
 def improved_disjoint(A, B, C): 
