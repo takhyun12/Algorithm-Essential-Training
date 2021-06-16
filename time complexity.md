@@ -56,7 +56,7 @@ for item in list:
 }
 ```
 
-* 반복문이 2개 있는 경우도 하나의 알고리즘을 대상으로 Big-O Notation을 적용한다
+* 반복문이 따로 2개 있는 경우도 하나의 알고리즘을 대상으로 Big-O Notation을 적용한다
 
 ```python
 for item in list:
