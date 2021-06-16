@@ -90,3 +90,29 @@ def print_each_n_times(li):
 #### O(Cⁿ) (Exponential)
 * 데이터량이 많아질수록 처리시간이 기하급수적으로 늘어나는 알고리즘입니다. (상수값 C 의 n 제곱)
 * 예시) 피보나치 수열, 재귀가 역기능을 할 경우
+
+### 최적화 테크닉 
+
+* Example 1: O(n^3) -> O(n^2)
+
+```python
+def disjoint(A, B, C):
+    for a in A: 
+        for b in B:
+            for c in C: 
+                if a == b == c:
+                    return False 
+    return True
+```
+
+```python
+def improved_disjoint(A, B, C): 
+    for a in A: 
+        for b in B: 
+            if a == b: 
+                for c in C: 
+                    if a == c: 
+                        return False 
+    return True
+```
+
