@@ -33,6 +33,12 @@ print('hello')
 * 데이터가 10배가 되면, 처리 시간도 10배가 됩니다. 
 * 예시) 1차원 for문
 
+```python
+for(int i=0;i<input;i++){
+    printf("hello");
+}
+```
+
 #### O(n log₂ n) (Linear-Logarithmic)
 * 데이터가 많아질수록 처리시간이 로그(log) 배만큼 더 늘어나는 알고리즘입니다. (N*(log2N))
 * 데이터가 10배가 되면, 처리 시간은 약 20배가 된다. 
