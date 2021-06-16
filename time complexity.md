@@ -30,19 +30,19 @@ print('hello')
 
 ```python
 def binary_search(li, item, first=0, last=None):
-	if not last:
-		last = len(li)
+    if not last:
+        last = len(li)
 
-	midpoint = (last - first) / 2 + first
+    midpoint = (last - first) / 2 + first
 
-	if li[midpoint] == item:
-		return midpoint
+    if li[midpoint] == item:
+        return midpoint
 
-	elif li[midpoint] > item:
-		return binary_search(li, item, first, midpoint)
+    elif li[midpoint] > item:
+        return binary_search(li, item, first, midpoint)
 
-	else:
-		return binary_search(li, item, midpoint, last)
+    else:
+        return binary_search(li, item, midpoint, last)
 ```
 
 #### O(n) (Linear)
