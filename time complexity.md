@@ -4,9 +4,17 @@
 ## Time Complexity
 
 ### 점근적 표기법(Asymptotic natation)
-* 0보다 크거나 같은 정수 N이 주어진다. 이때, N!을 출력하는 프로그램을 작성하시오.
+* 최상의 시간복잡도 : 오메가 표기법 (Big-Ω Notation)
+* 평균 시간복잡도 : 세타 표기법 (Big-θ Notation)
+* 최악의 시간복잡도 : 빅오 표기법 (Big-O Notation)
 
-* Example 1:
+### 빅오 표기법 (Big-O Notation)
+* 시간복잡도는 입력된 N의 크기에 따라 실행되는 조작의 수를 나타낸다
+* 공간복잡도는 알고리즘이 실행될때 사용하는 메모리의 양을 나타낸다
+
+
+![big o](https://user-images.githubusercontent.com/41291493/122162870-3b095c80-ceaf-11eb-83f8-e61c7a058ecb.png)
+
 
 ```python
 def factorial(n: int) -> int:
