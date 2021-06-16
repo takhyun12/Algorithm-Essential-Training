@@ -34,8 +34,20 @@ print('hello')
 * 예시) 1차원 for문
 
 ```python
-for(int i=0;i<input;i++){
-    printf("hello");
+for item in list:
+    print(item)
+}
+```
+
+* 반복문이 2개 있는 경우도 하나의 알고리즘을 대상으로 Big-O Notation
+
+```python
+for item in list:
+    print(item)
+}
+
+for item in list:
+    print(item)
 }
 ```
 
