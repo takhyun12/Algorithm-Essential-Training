@@ -39,7 +39,7 @@ for item in list:
 }
 ```
 
-* 반복문이 2개 있는 경우도 하나의 알고리즘을 대상으로 Big-O Notation
+* 반복문이 2개 있는 경우도 하나의 알고리즘을 대상으로 Big-O Notation을 적용한다
 
 ```python
 for item in list:
@@ -60,6 +60,14 @@ for item in list:
 * 데이터가 많아질수록 처리시간이 급수적으로 늘어나는 알고리즘입니다. (입력값 n의 제곱)
 * 데이터가 10배가 되면, 처리 시간은 최대 100배가 됩니다. 
 * 예시) 이중 루프(n² matrix)
+
+```python
+
+def print_each_n_times(li):
+    for n in li:
+        for m in li:
+            print(n,m)
+```
 
 
 #### O(Cⁿ) (Exponential)
