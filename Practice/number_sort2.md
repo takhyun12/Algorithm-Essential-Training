@@ -1,4 +1,4 @@
-## 수 정렬하기2
+## 수 정렬하기2-백준
 
 * References : https://www.acmicpc.net/problem/2751
 * N개의 수가 주어졌을 때, 이를 오름차순으로 정렬하는 프로그램을 작성하시오.
