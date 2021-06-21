@@ -1,4 +1,4 @@
-## 오타맨 고창영
+## 오타맨 고창영-백준
 
 * References : https://www.acmicpc.net/problem/2711
 
