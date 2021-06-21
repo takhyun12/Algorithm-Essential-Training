@@ -9,7 +9,7 @@
 * 문자열의 가장 첫 문자는 1번째 문자이고, 문자열의 길이는 80을 넘지 않고, 대문자로만 이루어져 있다.
 * 오타를 낸 위치는 문자열 길이보다 작거나 같다.
 
-* Solution 1: [Link]()
+### Solution 1: [Link]()
 
 ```python
 def solution(index: int, text: str) -> str:
