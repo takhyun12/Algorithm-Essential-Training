@@ -9,6 +9,24 @@
 * 문자열의 가장 첫 문자는 1번째 문자이고, 문자열의 길이는 80을 넘지 않고, 대문자로만 이루어져 있다.
 * 오타를 낸 위치는 문자열 길이보다 작거나 같다.
 
+### Test Code:
+def solution(index: int, text: str) -> str:
+    # You can put your code in here
+    return [str]
+
+
+if __name__ == '__main__':
+    cases = ["4, MISSPELL",
+             "1, PROGRAMMING",
+             "7, CONTEST",
+             "3, BALLOON"]
+
+    for case in cases:
+        idx, txt = case.split(',')
+        result: str = solution(int(inx), txt.lstrip())
+        print(result)
+```
+
 ### Solution 1: [Link](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Solutions/typing_error.py)
 
 ```python
