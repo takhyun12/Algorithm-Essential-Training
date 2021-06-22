@@ -14,3 +14,4 @@
 ## Practice
 1. [수 정렬하기2-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/number_sort2.md)
 2. [오타맨 고창영-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/typing_error.md)
+3. [데이트-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/date.md)
