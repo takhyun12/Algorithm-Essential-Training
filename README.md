@@ -2,7 +2,6 @@
 
 #### Author: Tackhyun Jung
 #### Contributors : jyoonab
-#### Status: ~ing
 
 ## Algorithm Fundamentals
 
