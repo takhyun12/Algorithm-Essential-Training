@@ -10,7 +10,10 @@
 
 ![table](https://user-images.githubusercontent.com/41291493/122884356-04cd5080-d379-11eb-9820-d48cf8180d9c.png)
 
-예를 들어, 저항에 색이 yellow, violet, red였다면 저항의 값은 4,700이 된다.
+예를 들어, 저항에 색이 yellow, violet, red (이)라면 저항의 값은 4700이 된다.
+저항의 색이 white, orange, grey (이)라면 저항의 값은 9300000000이 된다.
+저항의 색이 green, white, brown (이)라면 저항의 값은 590이 된다.
+
 
 ### Test Code:
 ```python
