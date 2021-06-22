@@ -20,6 +20,19 @@
 * 오민식의 영어 이름과 나머지 여자들의 이름이 주어졌을 때, 오민식과 성공할 확률이 가장 높은 여자의 이름을 출력하는 프로그램을 작성하시오. 
 * 여러명일 때에는 알파벳으로 가장 앞서는 이름을 출력하면 된다.
 
+### Test:
+```python
+def solution(minsik_name: str, girls_list: list) -> str:
+    # You can put your code in here
+    return [str]
+
+if __name__ == '__main__':
+    minsik_name = 'OHMINSIK'
+    girls_list = ['TAEYEON', 'TIFFANY', 'YURI', 'HYOYEON', 'SOOYOUNG', 'SEOHYUN', 'YOONA', 'JESSICA', 'SUNNY']
+    sweetheart = solution(minsik_name, girls_list)
+    print(sweetheart)
+```
+
 ### Solution 1: [Link](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Solutions/date.py)
 
 ```python
