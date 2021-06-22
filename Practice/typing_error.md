@@ -10,6 +10,7 @@
 * 오타를 낸 위치는 문자열 길이보다 작거나 같다.
 
 ### Test Code:
+```python
 def solution(index: int, text: str) -> str:
     # You can put your code in here
     return [str]
