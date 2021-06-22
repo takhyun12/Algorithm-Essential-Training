@@ -12,12 +12,10 @@
 
 예를 들어, 저항에 색이 yellow, violet, red였다면 저항의 값은 4,700이 된다.
 
-### Test
+### Test Code:
 ```python
 def solution(resistance_dict: dict, color_list: list) -> int:
     # You can put your code in here
-    print(resistance_dict)
-    print(color_list)
     return [int]
 
 if __name__ == '__main__':
@@ -33,7 +31,14 @@ if __name__ == '__main__':
                        "white": [9, 1000000000]}
 
     color_list = ["yellow", "violet", "red"]
-
     resistance_score = solution(resistance_dict, color_list)
-    print(resistance_score)
+    print(resistance_score)  # 4700
+
+    color_list2 = ["white", "orange", "grey"]
+    resistance_score = solution(resistance_dict, color_list2)
+    print(resistance_score)  # 9300000000
+
+    color_list3 = ["green", "white", "brown"]
+    resistance_score = solution(resistance_dict, color_list3)
+    print(resistance_score)  # 590
 ```
