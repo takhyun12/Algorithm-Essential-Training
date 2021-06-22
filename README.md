@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Algorithm%20Essential%20Training&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Let's%20learn%20algorithm%20fundamentals&descAlignY=51&descAlign=62)
 
 #### Author: Tackhyun Jung
-
+#### Contributors : jyoonab
 #### Status: ~ing
 
 ## Algorithm Fundamentals
