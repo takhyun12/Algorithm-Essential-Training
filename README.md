@@ -15,3 +15,4 @@
 2. [오타맨 고창영-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/typing_error.md)
 3. [데이트-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/date.md)
 4. [저항-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/resistance.md)
+5. [등장하지 않는 문자의 합-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/soctdnp.md)
