@@ -28,6 +28,6 @@ def solution(s: str) -> int:
 if __name__ == '__main__':
     cases = ["ABCDEFGHIJKLMNOPQRSTUVW", "A", "BDCW", "K", "", 554342389243782437823478243872348234]
     for case in cases:
-        result: int = solution(case)
+        result: int = solution(str(case))
         print(result)
 ```
