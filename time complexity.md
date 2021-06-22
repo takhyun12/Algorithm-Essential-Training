@@ -79,7 +79,6 @@ for item in list:
 * 예시) 이중 루프(n² matrix)
 
 ```python
-
 def print_each_n_times(li):
     for n in li:
         for m in li:
