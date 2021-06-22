@@ -1,48 +1,33 @@
 ## 등장하지 않는 문자의 합-백준
-* References : https://www.acmicpc.net/problem/2711
+* References : https://www.acmicpc.net/problem/3059
 
-* 고창영은 맨날 오타를 낸다. 창영이가 오타를 낸 문장과 오타를 낸 위치가 주어졌을 때, 오타를 지운 문자열을 출력하는 프로그램을 작성하시오.
-* 창영이는 오타를 반드시 1개만 낸다.
-* 첫째 줄에 테스트 케이스의 개수 T(1<=T<=1,000)가 주어진다. 
-* 각 테스트 케이스는 한 줄로 구성되어 있다. 첫 숫자는 창영이가 오타를 낸 위치이고, 두 번째 문자열은 창영이가 친 문자열이다. 
-* 문자열의 가장 첫 문자는 1번째 문자이고, 문자열의 길이는 80을 넘지 않고, 대문자로만 이루어져 있다.
-* 오타를 낸 위치는 문자열 길이보다 작거나 같다.
+* 알파벳 대문자로 구성되어있는 문자열 S가 주어졌을 때, S에 등장하지 않는 알파벳 대문자의 아스키 코드 값의 합을 구하는 프로그램을 작성하시오.
+
+* 문자열 S가 “ABCDEFGHIJKLMNOPQRSTUVW” 일 때, S에 등장하지 않는 알파벳 대문자는 X, Y, Z이다.
+
+* X의 아스키 코드 값은 88, Y는 89, Z는 90이므로 이 아스키 코드 값의 합은 267이다.
+
+### 입력:
+* 입력은 T개의 테스트 데이터로 구성된다. 입력의 첫 번째 줄에는 입력 데이터의 수를 나타내는 정수 T가 주어진다. 
+* 각 테스트 데이터는 한 줄로 구성되어 있고, 문자열 S가 주어진다. S는 알파벳 대문자로만 구성되어 있고, 최대 1000글자이다.
+
+### 출력:
+* 각 테스트 데이터에 대해, 입력으로 주어진 문자열 S에 등장하지 않는 알파벳 대문자의 아스키 코드 값의 합을 한 줄에 하나씩 출력한다.
+
+### 정답 케이스:
+* `ABCDEFGHIJKLMNOPQRSTUVW` : `267`
+* `A` : `1950`
 
 ### Test Code:
 ```python
-def solution(index: int, text: str) -> str:
+def solution(s: str) -> int:
     # You can put your code in here
-    return [str]
+    return [int]
 
 
 if __name__ == '__main__':
-    cases = ["4, MISSPELL",
-             "1, PROGRAMMING",
-             "7, CONTEST",
-             "3, BALLOON"]
-
+    cases = ["ABCDEFGHIJKLMNOPQRSTUVW", "A", "BDCW", "K", "", 554342389243782437823478243872348234]
     for case in cases:
-        idx, txt = case.split(',')
-        result: str = solution(int(inx), txt.lstrip())
-        print(result)
-```
-
-### Solution 1: [Link](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Solutions/typing_error.py)
-
-```python
-def solution(index: int, text: str) -> str:
-    fix_text = text[:index - 1] + text[index:]
-    return fix_text
-
-
-if __name__ == '__main__':
-    cases = ["4, MISSPELL",
-             "1, PROGRAMMING",
-             "7, CONTEST",
-             "3, BALLOON"]
-
-    for case in cases:
-        idx, txt = case.split(',')
-        result: str = solution(int(inx), txt.lstrip())
+        result: int = solution(case)
         print(result)
 ```
