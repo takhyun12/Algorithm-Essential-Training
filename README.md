@@ -8,6 +8,7 @@
 1. [time complexity](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/time%20complexity.md)
 2. [strStr](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/strStr.md)
 3. [factorial](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/factorial.md)
+4. [최대공약수와 최소공배수](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/gcd.md)
 
 
 ## Practice
