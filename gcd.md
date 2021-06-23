@@ -21,3 +21,28 @@ def solution(n, m):
     answer = [gcd(n, m), (n * m) / gcd(n, m)]
     return answer
 ```
+
+* Example 2:
+
+```python
+def gcd(a, b):
+    return b if a % b == 0 else gcd(b, a % b)
+
+def lcm(a, b):
+    return int(a * b / gcd(a, b))
+
+
+def gcdlcm(a, b):
+    answer = [gcd(a,b), lcm(a,b)]
+    return answer
+```
+
+* Example 3:
+
+
+```python
+from fractions import gcd 
+def solution(n, m):
+    answer = [gcd(n, m), n*m / gcd(n, m)]
+    return answer
+```
