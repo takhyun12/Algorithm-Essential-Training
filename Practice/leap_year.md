@@ -21,8 +21,10 @@
 ### Test Code:
 ```python
 def solution(year):
-  [return] 
+    pass
 
-year = int(input())
-print(solution(year))
+
+if __name__ == '__main__':
+    year = int(input())
+    print(solution(year))
 ```
