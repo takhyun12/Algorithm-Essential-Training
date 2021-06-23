@@ -31,3 +31,5 @@ if __name__ == '__main__':
         result: int = solution(str(case))
         print(result)
 ```
+
+### Solution: [바로가기](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Solutions/soctdnp.py)
