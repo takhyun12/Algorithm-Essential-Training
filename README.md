@@ -9,6 +9,7 @@
 2. [strStr](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/strStr.md)
 3. [factorial](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/factorial.md)
 4. [최대공약수와 최소공배수](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/gcd.md)
+5. [문자열 거꾸로 뒤집기](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/reversed_string.md)
 
 
 ## Practice
