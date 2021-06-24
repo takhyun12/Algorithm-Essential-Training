@@ -67,7 +67,6 @@ def solution(s: str) -> str:
 def solution2(s: str) -> str:
     s_list = list(s)
     s_list.reverse()
-
     return ''.join(s_list)  # average: 134ms
 
 
