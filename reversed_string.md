@@ -24,7 +24,7 @@ def solution(s: str) -> str:
 ```python
 s = 'abcde'
 s_list = list(s)
-s_list.revese()
+s_list.reverse()
 
 print(''.join(s_list))
 ```
