@@ -7,7 +7,7 @@
 
 ### Solution:
 
-* 정석적인 방법:
+* 알고리즘적인 방법:
 ```python
 def solution(s: str) -> str:                                                                                
     reversed_list = list(s)                                                                                 
@@ -45,3 +45,39 @@ print(s[::-1])
 s = 'abcde'
 print(s[3::-1])
 ```
+
+### Performance Comparison:
+
+```python
+test_case = "Feel so Good!" * 1000000
+```
+
+
+```python
+def solution(s: str) -> str:
+    reversed_list = list(s)
+    start, fin = 0, len(s) - 1
+    while start < fin:
+        reversed_list[start], reversed_list[fin] = reversed_list[fin], reversed_list[start]
+        start += 1
+        fin -= 1
+    return ''.join(reversed_list)  # average: 647ms
+
+
+def solution2(s: str) -> str:
+    s_list = list(s)
+    s_list.reverse()
+
+    return ''.join(s_list)  # average: 134ms
+
+
+def solution3(s: str) -> str:
+    return s[::-1]   # average: 13ms
+```
+
+* 실험결과 Solution3의 방법이 압도적으로 높은 성능을 보였다
+
+![reverse_string](https://user-images.githubusercontent.com/41291493/123187683-92be4e00-d4d5-11eb-9c16-f93c7ce1cabe.png)
+
+
+
