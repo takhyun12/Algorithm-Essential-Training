@@ -69,3 +69,4 @@ h = ("AM2CIK4DJCED" * 13312444) + n + ("KDM1EKE" * 100)
 
 ![strStr](https://user-images.githubusercontent.com/41291493/123195005-65c46800-d4e2-11eb-9631-686d6ab07852.png)
 
+☕ 더 빠른 알고리즘을 알려주신분께는 Coffee를 사드립니다. (카카오톡 선물하기)
