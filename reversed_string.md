@@ -75,7 +75,7 @@ def solution3(s: str) -> str:
     return s[::-1]   # average: 13ms
 ```
 
-* 실험결과 Solution3의 방법이 압도적으로 높은 성능을 보였다
+* 실험결과 Solution3의 방법이 join 등 다른 메소드를 사용하지 않아 압도적으로 높은 성능을 보였다
 
 ![reverse_string](https://user-images.githubusercontent.com/41291493/123187683-92be4e00-d4d5-11eb-9c16-f93c7ce1cabe.png)
 
