@@ -50,6 +50,19 @@ def strStr4(haystack: str, needle: str) -> int:
             return i
     return -1
 ```
+```python
+def strStr5(haystack: str, needle: str) -> int:
+    h, n = len(haystack), len(needle)
+    if (h == 0 and n == 0) or n == 0:
+        return 0
+    elif h == 0 or n > h:
+        return -1
+
+    for i in range(h - n + 1):
+        if haystack[i:i + n] == needle:
+            return i
+    return -1
+```
 
 ### Performance Comparison:
 * Test case
@@ -66,6 +79,7 @@ h = ("AM2CIK4DJCED" * 13312444) + n + ("KDM1EKE" * 100)
 | strStr2 | 1 | find | 26ms | 
 | strStr3 | 1 | index | 53ms | 
 | strStr4 | 1 | len | 31042ms | 
+| strStr5 | 1 | len | 9676ms | 
 
 ![strStr](https://user-images.githubusercontent.com/41291493/123195005-65c46800-d4e2-11eb-9631-686d6ab07852.png)
 
