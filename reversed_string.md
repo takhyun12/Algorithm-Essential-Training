@@ -3,7 +3,6 @@
 
 ### Restrictions:
 * len(s) / 2 의 Time complexity 구현하시오.
-* 추가적인 변수를 할당하지 마시오.
 
 
 ### Solution:
