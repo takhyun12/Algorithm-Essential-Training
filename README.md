@@ -19,3 +19,4 @@
 4. [저항-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/resistance.md)
 5. [등장하지 않는 문자의 합-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/soctdnp.md)
 6. [윤년-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/leap_year.md)
+7. [IBM빼기1-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/ibm1.md)
