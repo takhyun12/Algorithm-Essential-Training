@@ -65,7 +65,7 @@
 ### Test Code:
 ```python
 def solution(a: str, b: str) -> ???:
-    // input code here!!
+    # input code here!!
 
 if __name__ == '__main__':
     case1_list = ["FRANCE", "handshake", "aa1+aa2", "E=M*C^2"]
@@ -75,4 +75,4 @@ if __name__ == '__main__':
         print(solution(str(case1_list[i]), str(case2_list[i])))
 ```
 
-### Solution : [바로가기](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Solutions/ibm1.py)
+### Solution : [바로가기](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Solutions/news_clustering.py)
