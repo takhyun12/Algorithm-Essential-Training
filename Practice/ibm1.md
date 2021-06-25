@@ -28,3 +28,5 @@ if __name__ == '__main__':
     for case in test_cases:
         print(solution(case))
 ```
+
+### Solution : [바로가기](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Solutions/ibm1.py)
