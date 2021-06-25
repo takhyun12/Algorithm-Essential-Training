@@ -1,4 +1,4 @@
-## 핸드폰번호가리기-프로그래머스
+## 전화번호 가리기-프로그래머스
 
 * References : https://www.acmicpc.net/problem/2562
 
