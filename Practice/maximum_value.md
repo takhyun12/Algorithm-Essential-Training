@@ -13,9 +13,9 @@
 
 ### Test Code:
 ```python
-def solution(sample_list: list) -> int, int:
+def solution(sample_list: list) -> ???:
     # input your code
-    return int, int
+    return ???
 
 if __name__ == '__main__':
     sample_list = [3, 29, 38, 12, 57, 74, 40, 85, 61]
