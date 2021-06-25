@@ -20,3 +20,4 @@
 5. [등장하지 않는 문자의 합-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/soctdnp.md)
 6. [윤년-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/leap_year.md)
 7. [IBM빼기1-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/ibm1.md)
+8. [최대값-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/maximum_value.md)
