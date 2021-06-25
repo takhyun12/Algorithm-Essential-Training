@@ -5,10 +5,8 @@ def solution(sample_list: list) -> dict:
     result["maximum value"] = max_num
     result["index"] = position_num+1
 
-    # input your code
     return result
 
 if __name__ == '__main__':
     sample_list = [3, 29, 38, 12, 57, 74, 40, 85, 61]
     print(solution(sample_list))
-    # input your code
