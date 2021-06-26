@@ -23,4 +23,4 @@
 8. [최대값-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/maximum_value.md)
 9. [전화번호가리기-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/phone_number.md)
 10. [뉴스 클러스터링-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/news_clustering.md)
-11. [지영 공주님의 마법 거울-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/magic_mirror.md)
+11. [지영 공주님의 마법 거울-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/magic_mirror.md)
