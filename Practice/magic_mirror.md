@@ -1,4 +1,4 @@
-## 지영 공주님의 마법 거울-프로그래머스
+## 지영 공주님의 마법 거울-백준
 
 * References : https://www.acmicpc.net/problem/11586
 
