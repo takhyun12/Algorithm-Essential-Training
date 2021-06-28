@@ -25,3 +25,4 @@
 10. [뉴스 클러스터링-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/news_clustering.md)
 11. [지영 공주님의 마법 거울-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/magic_mirror.md)
 12. [알파벳거리-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/alphabet_distance.md)
+13. [오픈채팅방-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/open_chat.md)
