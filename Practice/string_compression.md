@@ -84,7 +84,8 @@ def solution(?: ???) -> ???:
     return ???
 
 if __name__ == '__main__':
-    log: list = ["aabbaccc", "ababcdcdababcdcd", "abcabcdede", "abcabcabcabcdededededede", "xababcdcdababcdcd"]
+    input_list: list = ["aabbaccc", "ababcdcdababcdcd", "abcabcdede", "abcabcabcabcdededededede", "xababcdcdababcdcd",
+                        "acacacbacacac", "acacacacacacbacacacacacac", "a" * 100, "xxxxxxxxxxyyy"]
     # input your code
 ```
 
