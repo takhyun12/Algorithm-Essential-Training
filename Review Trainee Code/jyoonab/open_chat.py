@@ -1,6 +1,4 @@
 def solution(l: list) -> list:
-    print(l)
-
     result = []
     final_result = []
     dict = {}
@@ -23,7 +21,7 @@ def solution(l: list) -> list:
             final_result.append(dict[i[1]] + "님이 들어왔습니다.")
         elif i[0] == "Leave":
             final_result.append(dict[i[1]] + "님이 나갔습니다.")
-
+            
     return final_result
 
 if __name__ == '__main__':
