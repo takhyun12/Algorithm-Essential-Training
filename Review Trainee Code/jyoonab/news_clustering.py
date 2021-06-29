@@ -2,6 +2,9 @@ def solution(a: str, b: str) -> int:
     a_split = split_list(''.join(filter(str.isalpha, a)).upper())
     b_split = split_list(''.join(filter(str.isalpha, b)).upper())
 
+    print(a_split)
+    print(b_split)
+
     union = set(a_split) | set(b_split)
     intersection = set(a_split) & set(b_split)
 
