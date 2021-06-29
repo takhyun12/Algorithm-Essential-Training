@@ -28,3 +28,4 @@
 13. [오픈채팅방-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/open_chat.md)
 14. [문자열압축-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/string_compression.md)
 15. [가장큰수-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/largest_number.md)
+16. [N개의 최소공배수](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/lcm.md)
