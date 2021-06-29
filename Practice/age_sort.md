@@ -25,7 +25,7 @@
 ### Result Case:
 ```
 21 Junkyu               20 Sunyoung   
-21 Dohyun      ->       21 Junkyu
+21 Dohyun       ->      21 Junkyu
 20 Sunyoung             21 Dohyun 
 ```
 
