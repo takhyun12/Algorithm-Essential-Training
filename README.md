@@ -34,3 +34,4 @@
 19. [기능개발-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/si.md)
 20. [타겟넘버-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/target_number.md)
 21. [괄호변환-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/parentheses.md)
+22. [H-Index-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/h_index.md)
