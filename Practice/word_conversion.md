@@ -1,5 +1,4 @@
 ## 단어변환-프로그래머스
-* 해당 문제부터는 Lv3에 해당됩니다.
 
 * References : https://programmers.co.kr/learn/courses/30/lessons/43163
 
