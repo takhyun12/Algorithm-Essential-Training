@@ -51,4 +51,4 @@ if __name__ == '__main__':
     # input your code
 ```
 
-### Solution : [바로가기](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Solutions/company.py)
+### Solution : [바로가기](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Solutions/word_conversion.py)
