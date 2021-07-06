@@ -40,3 +40,4 @@
 25. [야근지수-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/overtime_index.md)
 26. [JadenCase-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/jadencase.md)
 27. [프린터-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/printer.md)
+28. [신용카드 판별-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/credit_card.md)
