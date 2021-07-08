@@ -42,4 +42,4 @@
 27. [프린터-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/printer.md)
 28. [신용카드 판별-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/credit_card.md)
 29. [스킬트리-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/skill_tree.md)
-30. [큰 수 만들기-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Solutions/large_number.py)
+30. [큰 수 만들기-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/large_number.md)
