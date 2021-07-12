@@ -15,4 +15,4 @@ def solution(number_list: str, k: int) -> str:
 if __name__ == '__main__':
     n_array = ["1924", "1231234", "4177252841", "77777"]
     k_array = [2, 3, 4, 1]
-    print(solution(n_array[0], k_array[0]))
+    print(solution(n_array[2], k_array[2]))
