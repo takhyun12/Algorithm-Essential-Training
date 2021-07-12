@@ -44,3 +44,4 @@
 29. [스킬트리-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/skill_tree.md)
 30. [큰 수 만들기-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/large_number.md)
 31. [행복한지 슬픈지-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/happy.md)
+32. [다음 큰 숫자-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/next_large_number.md)
