@@ -1,4 +1,4 @@
-## Reversed_integer-Leetcode
+## Reversed integer-Leetcode
 
 * References : https://leetcode.com/problems/reverse-integer/
 
