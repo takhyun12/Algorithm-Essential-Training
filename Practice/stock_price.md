@@ -35,4 +35,4 @@ if __name__ == '__main__':
     # input your code
 ```
 
-### Solution : [바로가기](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Solutions/sort_file_name.py)
+### Solution : [바로가기](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Solutions/stock_price.py)
