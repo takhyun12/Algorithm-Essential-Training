@@ -10,7 +10,6 @@
 ### Restrictions:
 
 * prices의 각 가격은 1 이상 10,000 이하인 자연수입니다.
-
 * prices의 길이는 2 이상 100,000 이하입니다.
 
 ### Result Case:
