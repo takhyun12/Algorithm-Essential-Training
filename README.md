@@ -50,3 +50,4 @@
 35. [파일명 정렬-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/sort_file_name.md)
 36. [주식가격-프로그래머스](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/stock_price.md)
 37. [파일정리-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/file_cleanup.md)
+38. [베스트셀러-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/bestseller.md)
