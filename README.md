@@ -52,3 +52,4 @@
 37. [파일정리-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/file_cleanup.md)
 38. [베스트셀러-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/bestseller.md)
 39. [가장 많은 글자-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/alphabet_count.md)
+40. [문자가 몇갤까-백준](https://github.com/takhyun12/Algorithm-Essential-Training/blob/main/Practice/alphabet_count2.md)
