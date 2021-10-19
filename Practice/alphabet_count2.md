@@ -29,7 +29,7 @@ def solution(?: ???) -> ???:
     return ???
 
 if __name__ == '__main__':
-    input_list = ["The quick brown fox jumped over the lazy dogs.". "New Zealand Programming Contest."]
+    input_list = ["The quick brown fox jumped over the lazy dogs.", "New Zealand Programming Contest."]
     # input your code
 ```
 
